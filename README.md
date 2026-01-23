@@ -1,4 +1,4 @@
-# 🎮 Proyecto: Plataformas 2D - Unity 6
+# 🎮 Proyecto: Semilla de resistencia (2D) - Unity 6
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-6.0%2B-black?style=for-the-badge&logo=unity" alt="Unity Version">
