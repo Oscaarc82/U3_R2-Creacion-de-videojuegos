@@ -34,7 +34,7 @@ Centralizar y documentar el proceso de:
 - Publicación y prueba del videojuego en **itch.io**.
 - Análisis de los aspectos legales relacionados con su distribución.
 
-El repositorio funciona como un **portafolio de evidencias**, conforme a la rúbrica establecida por la asignatura.
+El repositorio funciona como un **portafolio de evidencias**, conforme a la rúbrica establecida.
 
 ---
 
@@ -89,7 +89,6 @@ El videojuego se encuentra publicado y disponible para su prueba directa en itch
 🔗 **Jugar Semilla de Resistencia:**  
 [Visitar sitio](https://oramirez.itch.io/semilla-de-resistencia)
 
-*(Reemplazar el enlace con la URL definitiva del proyecto en itch.io)*
 
 ---
 
