@@ -1,51 +1,122 @@
-# 🎮 Proyecto: Plataformas 2D - Unity 6
+# 🎮 Semilla de Resistencia – Videojuego 2D en Unity
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-6.0%2B-black?style=for-the-badge&logo=unity" alt="Unity Version">
   <img src="https://img.shields.io/badge/C%23-6.0-purple?style=for-the-badge&logo=c-sharp" alt="C# Version">
-  <img src="https://img.shields.io/badge/Status-En%20Desarrollo-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Plataforma-WebGL%20%7C%20Desktop-blue?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Finalizado-green?style=for-the-badge" alt="Status">
 </p>
 
 ---
 
-## 🎯 Objetivo del Juego
-Este proyecto consiste en el desarrollo de un videojuego de plataformas 2D enfocado en el aprendizaje de mecánicas fundamentales. El objetivo es guiar al jugador a través de niveles desafiantes utilizando un sistema de selección de personajes, mecánicas de salto fluido y combate contra enemigos inteligentes.
+## 🌱 Descripción General del Proyecto
 
-> **Inspiración:** Proyecto desarrollado siguiendo la serie de lecciones de **Luis Canary** en YouTube.
+**Semilla de Resistencia** es un videojuego de plataformas 2D desarrollado en **Unity**, cuyo enfoque combina mecánicas clásicas de acción con una narrativa ambiental.  
+El protagonista es un tronco con la capacidad de disparar semillas, ubicado en un mundo afectado por la contaminación, donde diversas criaturas han comenzado a comportarse de manera anómala debido a residuos tóxicos.
 
----
+La misión principal consiste en derrotar a estas criaturas, recolectar sus residuos y utilizarlos para restaurar el equilibrio del entorno. El videojuego se desarrolla a través de **cuatro entornos distintos**:
 
-## 📚 Temario de Lecciones
-A continuación se describen los temas clave desarrollados a lo largo del curso:
+- 🌍 Tierra  
+- 🌊 Agua  
+- 🕳️ Subsuelo  
+- 🌬️ Aire  
 
-1. **Fundamentos de Movimiento:** Configuración de Rigidbody2D y lógica de movimiento horizontal sin fricción.
-2. **Sistema de Salto:** Implementación de salto, doble salto y mejoras de caída (Better Jump).
-3. **Manejo de Tilemaps:** Creación de niveles usando Tile Palette y optimización de colisiones con Composite Colliders.
-4. **Animaciones Avanzadas:** Uso de Animator Controllers, Overrides y manejo de estados (Run, Jump, Fall).
-5. **IA de Enemigos:** Creación de patrullas inteligentes y sistemas de ataque por Raycast.
-6. **Interfaz y UX:** Creación de menús, selección de personajes (Skin Selector) y persistencia de datos con PlayerPrefs.
+Este repositorio concentra **todas las evidencias académicas** correspondientes a la **Unidad III – Distribución de la aplicación de videojuegos**.
 
 ---
 
-## 📂 Recursos y Entregables
+## 🎯 Objetivo del Repositorio
 
-Para cada lección, se incluye un reporte detallado en PDF y un video demostrativo de la implementación.
+Centralizar y documentar el proceso de:
 
-| Lección | Documentación (PDF) | Demostración (Video) |
-| :--- | :---: | :---: |
-| **01 - Lecciones de la 1 a la 6** | [📄 Ver Reporte](<./PDFs/Tutoriales1-6 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1cxsmklWXvQK9S8Db5dc8uoxnMEv1D9xq/view?usp=sharing) |
-| **01 - Lecciones de la 7 a la 12** | [📄 Ver Reporte](<./PDFs/Tutoriales7-12 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
-| **01 - Lecciones de la 13 a la 18** | [📄 Ver Reporte](<./PDFs/Tutoriales13-18 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1y8QJmKlMaA3O-JtApmtSTK_FuAWNa9WY/view?usp=drive_link) |
-| **01 - Lecciones de la 19 a la 24** | [📄 Ver Reporte](<./PDFs/Tutoriales19-24 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1ZhqjcDax6JmDEoCz8pB218r8JhfQbvu3/view?usp=drive_link) |
-| **01 - Lecciones de la 25 a la 30** | [📄 Ver Reporte](<./PDFs/Tutoriales25-30 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1c-YKq28y1L7wmU7U75hV_XowhEhqKidd/view?usp=drive_link) |
+- Generación del build del videojuego.
+- Despliegue en plataformas **WebGL y Desktop**.
+- Publicación y prueba del videojuego en **itch.io**.
+- Análisis de los aspectos legales relacionados con su distribución.
+
+El repositorio funciona como un **portafolio de evidencias**, conforme a la rúbrica establecida por la asignatura.
+
+---
+
+## 📂 Contenido del Repositorio
+
+El repositorio incluye los siguientes entregables:
+
+### 📘 Actividad 1 – Tutorial de despliegue
+Documento en el que se describe paso a paso:
+- Exportación del videojuego desde Unity.
+- Configuración técnica del build.
+- Publicación en itch.io.
+- Revisión de políticas, metadatos y pruebas finales.
+
+📄 **Documento:**  
+`/Documentos/Actividad_1_Tutorial_Despliegue.pdf`
+
+---
+
+### ⚖️ Actividad 2 – Aspectos legales del videojuego
+Reporte en formato PDF que aborda los principales aspectos legales aplicables al videojuego, considerando su distribución digital.
+
+Incluye:
+- Derechos de autor  
+- Derechos patrimoniales  
+- Derechos de imagen  
+- Marcas  
+- Patentes  
+- Protección de datos  
+- Leyes especiales aplicables  
+
+📄 **Documento:**  
+`/Documentos/Actividad_2_Aspectos_Legales.pdf`
+
+---
+
+### 🎥 Video evidencia del funcionamiento
+Video demostrativo donde se muestra:
+- Ejecución del videojuego en itch.io.
+- Funcionamiento del build WebGL.
+- Pruebas básicas de jugabilidad y rendimiento.
+
+🎬 **Enlace al video:**  
+[Ver video evidencia](ENLACE_A_VIDEO_DRIVE_O_YOUTUBE)
+
+---
+
+## ▶️ Enlace para probar el videojuego
+
+El videojuego se encuentra publicado y disponible para su prueba directa en itch.io.
+
+🔗 **Jugar Semilla de Resistencia:**  
+[https://itch.io/XXXXXXXX](ENLACE_REAL_DEL_JUEGO)
+
+*(Reemplazar el enlace con la URL definitiva del proyecto en itch.io)*
 
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-* **Motor:** Unity 6
-* **Lenguaje:** C# (Web Forms Style Logic)
-* **Gráficos:** Pixel Art 2D
-* **Física:** Rigidbody2D y Platform Effectors
+
+- **Motor de desarrollo:** Unity 6  
+- **Lenguaje de programación:** C#  
+- **Plataformas de despliegue:** WebGL y Desktop  
+- **Distribución:** itch.io  
+- **Estilo gráfico:** 2D / Pixel Art  
+- **Control y física:** Rigidbody2D y Colliders  
 
 ---
-<p align="center"> Desarrollado por **Oscar Ulises Ramirez Cruz** </p>
+
+## 📋 Estado del Proyecto
+
+- Desarrollo del videojuego: ✔ Finalizado  
+- Build WebGL y Desktop: ✔ Generado  
+- Publicación en itch.io: ✔ Realizada  
+- Documentación académica: ✔ Completa  
+
+---
+
+## 👤 Autor
+
+<p align="center">
+<strong>Oscar Ulises Ramírez Cruz</strong><br>
+Ingeniería en Desarrollo y Gestión de Software<br>
+Asignatura: Creación de Videojuegos
+</p>
