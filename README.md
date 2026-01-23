@@ -50,7 +50,7 @@ Documento en el que se describe paso a paso:
 - Revisión de políticas, metadatos y pruebas finales.
 
 📄 **Documento:**  
-`/Documentos/Actividad_1_Tutorial_Despliegue.pdf`
+[Ver actividad](<./Actividades/Instrumento01U3 - Recuperacion 2 - Oscar Ulises Ramirez Cruz.pdf>)
 
 ---
 
@@ -67,7 +67,7 @@ Incluye:
 - Leyes especiales aplicables  
 
 📄 **Documento:**  
-`/Documentos/Actividad_2_Aspectos_Legales.pdf`
+[Ver actividad](<./Actividades/Instrumento02U3 - Recuperacion 2 - Oscar Ulises Ramirez Cruz.pdf>)
 
 ---
 
@@ -87,7 +87,7 @@ Video demostrativo donde se muestra:
 El videojuego se encuentra publicado y disponible para su prueba directa en itch.io.
 
 🔗 **Jugar Semilla de Resistencia:**  
-[https://itch.io/XXXXXXXX](ENLACE_REAL_DEL_JUEGO)
+[Visitar sitio](https://oramirez.itch.io/semilla-de-resistencia)
 
 *(Reemplazar el enlace con la URL definitiva del proyecto en itch.io)*
 
